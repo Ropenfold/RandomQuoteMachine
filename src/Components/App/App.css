@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-color: #4abdac;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quotebox {
+  width: 300px;
+  height: 100px;
+  background: whitesmoke;
 }
 
 .App-logo {
@@ -21,6 +31,12 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.quotebox {
+  width: 200px;
+  height: 100px;
+  background: whitesmoke;
 }
 
 @keyframes App-logo-spin {
